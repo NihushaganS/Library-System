@@ -26,7 +26,7 @@ def mainmenu():
         if select_main == 0:
             print(
                 "\n\nThank You for using our system\nYou are now succesfully exit from our library system")
-            print("_____________________________________________________________")
+            print("._____________________________________________________________.")
 
         elif select_main == 1:
             bookmenu()
